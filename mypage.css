@@ -7,7 +7,6 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1;
     }
 
 h1 {
@@ -16,4 +15,11 @@ h1 {
     padding: 6px 12px;
     display: inline-block;
     font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+
+    p {
+        margin-top: 250px;
+        font-size: xx-large;
+        text-align: left;
+        float: left;
     }
